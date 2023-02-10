@@ -100,10 +100,43 @@ public class test {
     }
     @Test
     public void test03(){
-//      char c="c";
 //        int i=10.0;
+//        float f=3.14;
+//        char c="c";
+//        Boolean b=null;
 
-        String[] strs ={"a","b","c"};
+
+    }
+
+    @Test
+    public void test04(){
+//        int i=10.0;
+//        float f=3.14;
+//        char c="c";
+//        Boolean b=null;
+//
+//        String[] strs =new String{"a" "b" "c"};
+//
+//        String strs1[] ={"a" ,"b" ,"c"};
+//
+//        String[] strs2 =new String[]{"a","b" ,"c"};
+//
+//        String strs3[] =new String[]{"a","b","c"};
+//
+//        String[] strs4 ={"a" ,"b" ,"c"};
+
+
+//        String[] strs =new String[3]{"a","b","c"};
+//
+//        String[] strs1 ={"a" ,"b" ,"c"};
+//
+//        String strs2[] ={'a','b' ,"c"};
+//
+//        String[] strs3 =new String{"a","b","c"};
+//
+//        String strs4[] =new String[]{"a" ,"b" ,"c"};
+
+
 
     }
 }
